@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.f6dcf006.chunk.css",
-    "main.js": "/static/js/main.c12e816c.chunk.js",
-    "main.js.map": "/static/js/main.c12e816c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a33bfb41.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a33bfb41.js.map",
-    "static/js/2.80f9e1d3.chunk.js": "/static/js/2.80f9e1d3.chunk.js",
-    "static/js/2.80f9e1d3.chunk.js.map": "/static/js/2.80f9e1d3.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.f6dcf006.chunk.css.map": "/static/css/main.f6dcf006.chunk.css.map",
-    "static/js/2.80f9e1d3.chunk.js.LICENSE.txt": "/static/js/2.80f9e1d3.chunk.js.LICENSE.txt",
-    "static/media/information.module.css": "/static/media/header.88739376.jpg",
-    "static/media/homeImg.f90ee81e.jpg": "/static/media/homeImg.f90ee81e.jpg",
-    "static/media/activities.module.css": "/static/media/img.01cad61c.jpg",
-    "static/media/publications.module.css": "/static/media/img.69b22037.jpg",
-    "static/media/img.f5e47205.svg": "/static/media/img.f5e47205.svg",
-    "static/media/research.module.css": "/static/media/img2.f4e35e6f.jpg",
-    "static/media/people.module.css": "/static/media/img3.37d26dee.jpg"
+    "main.css": "/Labmed/static/css/main.9c76267a.chunk.css",
+    "main.js": "/Labmed/static/js/main.caea7db0.chunk.js",
+    "main.js.map": "/Labmed/static/js/main.caea7db0.chunk.js.map",
+    "runtime-main.js": "/Labmed/static/js/runtime-main.99128e0b.js",
+    "runtime-main.js.map": "/Labmed/static/js/runtime-main.99128e0b.js.map",
+    "static/js/2.e3e4a55f.chunk.js": "/Labmed/static/js/2.e3e4a55f.chunk.js",
+    "static/js/2.e3e4a55f.chunk.js.map": "/Labmed/static/js/2.e3e4a55f.chunk.js.map",
+    "index.html": "/Labmed/index.html",
+    "static/css/main.9c76267a.chunk.css.map": "/Labmed/static/css/main.9c76267a.chunk.css.map",
+    "static/js/2.e3e4a55f.chunk.js.LICENSE.txt": "/Labmed/static/js/2.e3e4a55f.chunk.js.LICENSE.txt",
+    "static/media/information.module.css": "/Labmed/static/media/header.88739376.jpg",
+    "static/media/homeImg.f90ee81e.jpg": "/Labmed/static/media/homeImg.f90ee81e.jpg",
+    "static/media/activities.module.css": "/Labmed/static/media/img.01cad61c.jpg",
+    "static/media/publications.module.css": "/Labmed/static/media/img.69b22037.jpg",
+    "static/media/img.f5e47205.svg": "/Labmed/static/media/img.f5e47205.svg",
+    "static/media/research.module.css": "/Labmed/static/media/img2.f4e35e6f.jpg",
+    "static/media/people.module.css": "/Labmed/static/media/img3.37d26dee.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a33bfb41.js",
-    "static/js/2.80f9e1d3.chunk.js",
-    "static/css/main.f6dcf006.chunk.css",
-    "static/js/main.c12e816c.chunk.js"
+    "static/js/runtime-main.99128e0b.js",
+    "static/js/2.e3e4a55f.chunk.js",
+    "static/css/main.9c76267a.chunk.css",
+    "static/js/main.caea7db0.chunk.js"
   ]
 }
