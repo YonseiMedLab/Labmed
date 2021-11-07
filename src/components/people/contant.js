@@ -98,7 +98,7 @@ export const PROFILES = {
   student: [
     {
       id: "0",
-      imgURL: "/images/woman.jpg",
+      imgURL: "/images/이택규.jpg",
       name: "Sung.J.Y",
       position: "Student",
       email: "ddd@gmail.com",
