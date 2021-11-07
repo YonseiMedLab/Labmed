@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Labmed/static/css/main.9c76267a.chunk.css",
-    "main.js": "/Labmed/static/js/main.caea7db0.chunk.js",
-    "main.js.map": "/Labmed/static/js/main.caea7db0.chunk.js.map",
+    "main.js": "/Labmed/static/js/main.c4e70b5e.chunk.js",
+    "main.js.map": "/Labmed/static/js/main.c4e70b5e.chunk.js.map",
     "runtime-main.js": "/Labmed/static/js/runtime-main.99128e0b.js",
     "runtime-main.js.map": "/Labmed/static/js/runtime-main.99128e0b.js.map",
     "static/js/2.e3e4a55f.chunk.js": "/Labmed/static/js/2.e3e4a55f.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.99128e0b.js",
     "static/js/2.e3e4a55f.chunk.js",
     "static/css/main.9c76267a.chunk.css",
-    "static/js/main.caea7db0.chunk.js"
+    "static/js/main.c4e70b5e.chunk.js"
   ]
 }
